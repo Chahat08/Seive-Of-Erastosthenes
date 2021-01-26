@@ -7,7 +7,7 @@
 
 int main()
 {
-  int i, j;
+ 	int i, j;
 	int a[N];
 
 	for (i = 2; i < N; ++i) a[i] = 1;
